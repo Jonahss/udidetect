@@ -1,0 +1,23 @@
+{
+  "name": "udidetect",
+  "version": "1.0.6",
+  "description": "C library for printing a UDID of a currently connected iOS device.",
+  "main": "udidetect",
+  "scripts": {
+    "install": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jonahss/udidetect.git"
+  },
+  "keywords": [
+    "udid",
+    "ios",
+    "appium"
+  ],
+  "author": "http://github.com/vaskas",
+  "bugs": {
+    "url": "https://github.com/vaskas/udidetect/issues"
+  },
+  "homepage": "https://github.com/Jonahss/udidetect"
+}

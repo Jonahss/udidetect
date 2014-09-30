@@ -4,4 +4,3 @@ install:
 	cp udidetect /usr/local/bin/
 uninstall:
 	rm /usr/local/bin/udidetect
-
