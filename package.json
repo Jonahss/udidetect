@@ -1,12 +1,12 @@
 {
   "name": "udidetect",
-  "version": "1.0.7",
+  "version": "2.0.0",
   "description": "C library for printing a UDID of a currently connected iOS device.",
   "main": "udidetect",
   "scripts": {
     "install": "make"
   },
-  "os" : [
+  "os": [
     "darwin"
   ],
   "repository": {
